@@ -396,6 +396,30 @@ streamlit run app.py
 ```
 ### đợi vs code tải thư viện sau đó sẽ ra được giao diện như sau
 
+<img width="1327" height="678" alt="image" src="https://github.com/user-attachments/assets/c9d40824-e343-421b-bcbb-bafc09343f64" />
+
+<img width="854" height="414" alt="image" src="https://github.com/user-attachments/assets/da220e83-8cad-41e5-ba5b-c963c12e36b8" />
+
+<img width="649" height="469" alt="image" src="https://github.com/user-attachments/assets/e0025684-5a28-400a-90a8-5ef6e8010478" />
+
+<img width="656" height="475" alt="image" src="https://github.com/user-attachments/assets/d9d9e13a-0600-491a-898f-52835e205d0e" />
+
+### trong thư mục này có nhiều loại rác dataset đã phân loại rõ
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/908756aa-d8f0-4f8c-a8de-766c96b6fd2e" />
+
+### chọn 1 ảnh bất kì cho chương trình phân loại 
+### đây là kết quả 
+
+<img width="1314" height="608" alt="image" src="https://github.com/user-attachments/assets/729d140c-0adc-4d5a-99ac-5c38fec2b832" />
+
+<img width="1289" height="623" alt="image" src="https://github.com/user-attachments/assets/45607572-4eb8-4238-82f7-020abda50301" />
+
+<img width="1209" height="554" alt="image" src="https://github.com/user-attachments/assets/6d8adc55-fedb-4e9e-a2ec-164e6cd92ed9" />
+
+
+
+
 
 
 
